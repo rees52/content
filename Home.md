@@ -82,7 +82,8 @@
 <li><span><span>      </span></span><span>Connect the third terminal that is the variable pin to the Analog pin A0 You can power the Arduino using the BEC (Battery Eliminator Circuit) Present in your ESC. To use the BEC just connect the red thick wire to the Vin Pin of Arduino .It can provide 5V.Not all ESC’s have a BEC, in this case you can use a external 5v power supply. After Powering the Arduino now connect the Lipo battery to your ESC.</span></li>
 </ol>
 <h1 style="background-color: #dde4f0; color: #000000; padding: 12px;"><span style="color: #000000;"><strong>CODE</strong></span></h1>
-<p><br /><iframe width="150" height="150" style="width: 100%;" src="https://pastebin.com/embed_iframe/PjVqDDRJ"></iframe></p>
+<p><br />[<iframe width="150" height="150" style="width: 100%;" src="https://pastebin.com/embed_iframe/PjVqDDRJ"></iframe>]</p>
+[Click to download the code](https://pastebin.com/embed_iframe/PjVqDDRJ)
 <p></p>
 <p><br /><br /></p>
 <h1 style="background-color: #dde4f0; color: #000000; padding: 12px;"><span style="color: #000000;"><strong>OUTPUT</strong></span></h1>
@@ -91,4 +92,3 @@
 
 
 
-[Click to download the code](https://pastebin.com/embed_iframe/PjVqDDRJ)
